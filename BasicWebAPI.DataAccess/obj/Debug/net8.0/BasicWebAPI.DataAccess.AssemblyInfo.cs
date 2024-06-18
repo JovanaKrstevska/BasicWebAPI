@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasicWebAPI.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0e9174e36338a67f05be2337e837670a7a00e00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64138c6049ea9153076a51c521d79ba096c00dba")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasicWebAPI.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasicWebAPI.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
