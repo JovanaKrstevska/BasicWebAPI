@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{499325B0-C03E-4FA4-B162-6B89D2A6D1FE}|BasicWebAPI.Helpers\\BasicWebAPI.Helpers.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.helpers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499325B0-C03E-4FA4-B162-6B89D2A6D1FE}|BasicWebAPI.Helpers\\BasicWebAPI.Helpers.csproj|solutionrelative:basicwebapi.helpers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.domain\\enumerations\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\enumerations\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C1B08C-F487-438F-829C-44E5D0516289}|BasicWebAPI.Mappers\\BasicWebAPI.Mappers.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.mappers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C1B08C-F487-438F-829C-44E5D0516289}|BasicWebAPI.Mappers\\BasicWebAPI.Mappers.csproj|solutionrelative:basicwebapi.mappers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3962DB9F-9EE3-42AE-A378-D44F0209B5D6}|BasicWebAPI.Services\\BasicWebAPI.Services.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3962DB9F-9EE3-42AE-A378-D44F0209B5D6}|BasicWebAPI.Services\\BasicWebAPI.Services.csproj|solutionrelative:basicwebapi.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F6453BF-3011-4E70-85B5-BAF26CAB5679}|BasicWebAPI.DTOs\\BasicWebAPI.DTOs.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6453BF-3011-4E70-85B5-BAF26CAB5679}|BasicWebAPI.DTOs\\BasicWebAPI.DTOs.csproj|solutionrelative:basicwebapi.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30B3E242-EB0B-4929-B5D1-B20731511F68}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31DFBC4F-323F-4F88-A6FE-B9A5FF3B5706}|BasicWebAPI.DataAccess\\BasicWebAPI.DataAccess.csproj|c:\\users\\administrator\\source\\repos\\basicwebapi\\basicwebapi.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DFBC4F-323F-4F88-A6FE-B9A5FF3B5706}|BasicWebAPI.DataAccess\\BasicWebAPI.DataAccess.csproj|solutionrelative:basicwebapi.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,64 +46,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JobTitle.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Enumerations\\JobTitle.cs",
-              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Enumerations\\JobTitle.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Enumerations\\JobTitle.cs",
-              "RelativeToolTip": "BasicWebAPI.Domain\\Enumerations\\JobTitle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Helpers\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Helpers\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Helpers\\Class1.cs",
+              "RelativeToolTip": "BasicWebAPI.Helpers\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:13:30.165Z"
+              "WhenOpened": "2024-06-18T20:08:06.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\Country.cs",
-              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Entities\\Country.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\Country.cs",
-              "RelativeToolTip": "BasicWebAPI.Domain\\Entities\\Country.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Mappers\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Mappers\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Mappers\\Class1.cs",
+              "RelativeToolTip": "BasicWebAPI.Mappers\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:11:43.283Z",
+              "WhenOpened": "2024-06-18T20:07:47.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\Contact.cs",
-              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Entities\\Contact.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\Contact.cs",
-              "RelativeToolTip": "BasicWebAPI.Domain\\Entities\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Services\\Class1.cs",
+              "RelativeToolTip": "BasicWebAPI.Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:11:29.9Z"
+              "WhenOpened": "2024-06-18T20:07:24.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\Company.cs",
-              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Entities\\Company.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\Company.cs",
-              "RelativeToolTip": "BasicWebAPI.Domain\\Entities\\Company.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.DTOs\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.DTOs\\Class1.cs",
+              "RelativeToolTip": "BasicWebAPI.DTOs\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:11:13.514Z"
+              "WhenOpened": "2024-06-18T20:06:50.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "BasicWebAPI.Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BasicWebAPI\\BasicWebAPI.DataAccess\\Class1.cs",
+              "RelativeToolTip": "BasicWebAPI.DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:10:57.92Z"
+              "WhenOpened": "2024-06-18T20:06:19.427Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,7 +5,17 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWebAPI", "BasicWebAPI\BasicWebAPI.csproj", "{1DF5E7A3-114A-4DB2-AB47-0566A53790ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI.Domain", "BasicWebAPI.Domain\BasicWebAPI.Domain.csproj", "{30B3E242-EB0B-4929-B5D1-B20731511F68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWebAPI.Domain", "BasicWebAPI.Domain\BasicWebAPI.Domain.csproj", "{30B3E242-EB0B-4929-B5D1-B20731511F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI.DataAccess", "BasicWebAPI.DataAccess\BasicWebAPI.DataAccess.csproj", "{31DFBC4F-323F-4F88-A6FE-B9A5FF3B5706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI.DTOs", "BasicWebAPI.DTOs\BasicWebAPI.DTOs.csproj", "{5F6453BF-3011-4E70-85B5-BAF26CAB5679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI.Services", "BasicWebAPI.Services\BasicWebAPI.Services.csproj", "{3962DB9F-9EE3-42AE-A378-D44F0209B5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI.Mappers", "BasicWebAPI.Mappers\BasicWebAPI.Mappers.csproj", "{91C1B08C-F487-438F-829C-44E5D0516289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI.Helpers", "BasicWebAPI.Helpers\BasicWebAPI.Helpers.csproj", "{499325B0-C03E-4FA4-B162-6B89D2A6D1FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +31,26 @@ Global
 		{30B3E242-EB0B-4929-B5D1-B20731511F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B3E242-EB0B-4929-B5D1-B20731511F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B3E242-EB0B-4929-B5D1-B20731511F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DFBC4F-323F-4F88-A6FE-B9A5FF3B5706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DFBC4F-323F-4F88-A6FE-B9A5FF3B5706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DFBC4F-323F-4F88-A6FE-B9A5FF3B5706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DFBC4F-323F-4F88-A6FE-B9A5FF3B5706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6453BF-3011-4E70-85B5-BAF26CAB5679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6453BF-3011-4E70-85B5-BAF26CAB5679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6453BF-3011-4E70-85B5-BAF26CAB5679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6453BF-3011-4E70-85B5-BAF26CAB5679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3962DB9F-9EE3-42AE-A378-D44F0209B5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3962DB9F-9EE3-42AE-A378-D44F0209B5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3962DB9F-9EE3-42AE-A378-D44F0209B5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3962DB9F-9EE3-42AE-A378-D44F0209B5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C1B08C-F487-438F-829C-44E5D0516289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C1B08C-F487-438F-829C-44E5D0516289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C1B08C-F487-438F-829C-44E5D0516289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C1B08C-F487-438F-829C-44E5D0516289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499325B0-C03E-4FA4-B162-6B89D2A6D1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499325B0-C03E-4FA4-B162-6B89D2A6D1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499325B0-C03E-4FA4-B162-6B89D2A6D1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499325B0-C03E-4FA4-B162-6B89D2A6D1FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
