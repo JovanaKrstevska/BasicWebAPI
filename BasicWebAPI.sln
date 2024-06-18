@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI", "BasicWebAPI\BasicWebAPI.csproj", "{1DF5E7A3-114A-4DB2-AB47-0566A53790ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWebAPI", "BasicWebAPI\BasicWebAPI.csproj", "{1DF5E7A3-114A-4DB2-AB47-0566A53790ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebAPI.Domain", "BasicWebAPI.Domain\BasicWebAPI.Domain.csproj", "{30B3E242-EB0B-4929-B5D1-B20731511F68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1DF5E7A3-114A-4DB2-AB47-0566A53790ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DF5E7A3-114A-4DB2-AB47-0566A53790ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DF5E7A3-114A-4DB2-AB47-0566A53790ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B3E242-EB0B-4929-B5D1-B20731511F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B3E242-EB0B-4929-B5D1-B20731511F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B3E242-EB0B-4929-B5D1-B20731511F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B3E242-EB0B-4929-B5D1-B20731511F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
