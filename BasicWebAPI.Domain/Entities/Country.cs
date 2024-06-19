@@ -10,15 +10,9 @@ namespace BasicWebAPI.Domain.Entities
 {
     public class Country : BaseEntity
     {
-        [MaxLength(255)]
-        public string? CountryName { get; set; }
-
-        [Required]
-        [ForeignKey("Company")]
+        public string CountryName { get; set; } = string.Empty;
         public int CompanyId { get; set; }
-
-        public Company? Company { get; set; }
-
-        public List<Contact>? Contact { get; set; }
+        public Company Company { get; set; }
+        public List<Contact> Contacts { get; set; }
     }
 }

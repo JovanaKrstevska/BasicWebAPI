@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\bin\Debug\net8.0\BasicWebAPI.DTOs.deps.json
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\bin\Debug\net8.0\BasicWebAPI.DTOs.runtimeconfig.json
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\bin\Debug\net8.0\BasicWebAPI.DTOs.dll
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\bin\Debug\net8.0\BasicWebAPI.DTOs.pdb
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.sourcelink.json
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.dll
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\refint\BasicWebAPI.DTOs.dll
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.pdb
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\BasicWebAPI.DTOs.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net8.0\ref\BasicWebAPI.DTOs.dll

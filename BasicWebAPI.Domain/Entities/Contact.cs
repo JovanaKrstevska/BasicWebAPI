@@ -5,30 +5,15 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BasicWebAPI.Domain.Enumerations;
 
 namespace BasicWebAPI.Domain.Entities
 {
     public class Contact : BaseEntity
     {
-        [Required]
-        [MaxLength(255)]
-        public string ContactName { get; set; }
-
-        [Required]
-        [MaxLength(255)]
-        public JobTitle JobTitle { get; set; }
-
-        [Required]
-        [ForeignKey("Company")]
+        public string ContactName { get; set; } = string.Empty;
         public int CompanyId { get; set; }
-
-        public Company? Company { get; set; }
-
-        public Country? Country { get; set; }
-
-        [Required]
-        [ForeignKey("Country")]
+        public Company Company { get; set; }
         public int CountryId { get; set; }
+        public Country Country { get; set; }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.Services\obj\Debug\net8.0\BasicWebAPI.Services.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.Services\obj\Debug\net8.0\BasicWebAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.Services\obj\Debug\net8.0\BasicWebAPI.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.Services\obj\Debug\net8.0\BasicWebAPI.Services.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.Services\obj\Debug\net8.0\BasicWebAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BasicWebAPI\BasicWebAPI.Services\obj\Debug\net8.0\BasicWebAPI.Services.sourcelink.json

@@ -9,12 +9,8 @@ namespace BasicWebAPI.Domain.Entities
 {
     public class Company : BaseEntity
     {
-        [Required]
-        [MaxLength(255)]
-        public string CompanyName { get; set; }
-
+        public string CompanyName { get; set; } = string.Empty;
         public List<Country> Countries { get; set; }
-
         public List<Contact> Contacts { get; set; }
     }
 }
